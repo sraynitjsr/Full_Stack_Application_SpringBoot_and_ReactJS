@@ -1,5 +1,7 @@
 package com.subhradeep.SpringBootReactApp.service;
 
-public interface UserService {
+import com.subhradeep.SpringBootReactApp.model.User;
 
+public interface UserService {
+    public User getUser();
 }
