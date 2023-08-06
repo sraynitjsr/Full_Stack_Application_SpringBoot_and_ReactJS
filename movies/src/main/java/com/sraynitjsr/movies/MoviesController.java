@@ -12,7 +12,7 @@ public class MoviesController {
 
 @RestController
 public class MoviesController {
-    @GetMapping("/getMovies")
+    @GetMapping("/getAllMovies")
     public String getMovies() {
     }
 }
