@@ -9,4 +9,10 @@ public class MoviesController {
     public String home() {
         return "Welcome to Movies Application";
     }
+
+@RestController
+public class MoviesController {
+    @GetMapping("/getMovies")
+    public String getMovies() {
+    }
 }
