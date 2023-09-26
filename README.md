@@ -2,4 +2,4 @@
 
 ## Create a React UI with Create React App
 # Use the following command to create a react application using the create-react-app tool:
-# npx create-react-app ems-frontend
+# npx create-react-app fullstack-app-frontend
